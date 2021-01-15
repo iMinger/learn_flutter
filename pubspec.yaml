@@ -29,7 +29,8 @@ dependencies:
   dotted_border: ^1.0.7
   yin_drag_sacle: ^0.0.2
   matrix_gesture_detector: ^0.1.0
-
+  vector_math: ^2.0.8
+  matrix4_transform: ^1.1.6
 dev_dependencies:
   flutter_test:
     sdk: flutter
